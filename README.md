@@ -36,7 +36,14 @@ That routine uses open source projects to run properly:
 
 
 
-### SPED-NFE Installation
+### Installation
+
+Create a directory to store routine.
+
+```sh
+$ mkdir certtest
+$ cd certtest
+```
 
 Routine requires [nfephp-org/sped-nfe](https://github.com/nfephp-org/sped-nfe) to run.
 
@@ -44,6 +51,7 @@ Routine requires [nfephp-org/sped-nfe](https://github.com/nfephp-org/sped-nfe) t
 $ composer require nfephp-org/sped-nfe
 ```
 
+Copy certtest.php script to directory created before.
 
 
 ### Execution
