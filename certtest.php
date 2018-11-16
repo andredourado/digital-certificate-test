@@ -1,8 +1,5 @@
 <?php
 
-// first install dependencies: 
-//     composer require nfephp-org/sped-nfe
-
 require __DIR__.'/vendor/autoload.php';
 
 use NFePHP\Common\Certificate;
