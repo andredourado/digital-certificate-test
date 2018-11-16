@@ -51,7 +51,7 @@ $ composer require nfephp-org/sped-nfe
 Run script informing digital certificate file with ".pfx" extension and its password.
 
 ```sh
-$ php certtest.php audit.pfx 123456
+$ php certtest.php audits.pfx 123456
 ```
 
 
